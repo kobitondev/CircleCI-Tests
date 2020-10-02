@@ -25,4 +25,5 @@ jobs:
        - run:
           name: app-auto-testing
           command: npm run automation-test-three
-          working_directory: samplestw/automation-test-numbertwo.js
+          working_directory: samplestw/automation-test-numbertwo
+          
